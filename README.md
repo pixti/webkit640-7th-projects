@@ -55,16 +55,3 @@ webkit640-7th-projects/
 - **지도 & 위치 기반 호출**: Google Maps Platform(`react-native-maps`, Places Autocomplete, Geolocation)을 연동해 출발지/목적지 설정 및 호출 요청
 - **실시간 알림**: `firebase-admin`과 `@react-native-firebase/messaging` 기반 FCM 푸시 알림 연동
 
----
-
-## 통합 안내 (이전 레포지토리)
-
-기존에 개별 운영하던 3개의 레포지토리를 **커밋 기록을 유지한 채** 이 저장소로 통합했습니다.
-
-| 폴더 | 이전 레포지토리 |
-|---|---|
-| `computer-app/` | `pixti/Webkit640-computer-App` |
-| `semi-project/` | `pixti/Webkit640-semi-project` |
-| `taxi-app/` | `pixti/Webkit640-Taxi-App` |
-
-각 프로젝트의 상세 기능과 로컬 실행 방법은 하위 폴더의 `README.md`를 참고하세요.
